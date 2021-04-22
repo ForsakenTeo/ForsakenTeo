@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ForsakenTeo
-- 👀 I’m interested in ... Coding
+- 👀 I’m interested in ... Coding and Game Development
 - 🌱 I’m currently learning ... Computer Science in University of Crete
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
